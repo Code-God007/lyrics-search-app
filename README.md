@@ -8,4 +8,4 @@ Simple App to search for lyrics of any song.
 
 `$ npm install`
 
-`$ npm run`
+`$ npm start`
